@@ -1,0 +1,112 @@
+[
+    {
+        "index" : "1",
+        "name" : "The Taste",
+        "location": "Wagholi",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "98",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "2",
+        "name" : "Hotel Madinah",
+        "location": "Camp City",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "120",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "3",
+        "name" : "Al Nayab",
+        "location": "Yerwada",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "88",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "4",
+        "name" : "Al Zaika",
+        "location": "Wadgaonsheri",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "180",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "5",
+        "name" : "Viman nagar Social",
+        "location": "Viman Ngar",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "451",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "6",
+        "name" : "Hayat",
+        "location": "Wadgaonsheri Phata",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "621",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "7",
+        "name" : "Chul Mutton",
+        "location": "Kharadi",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "151",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "8",
+        "name" : "Tittos",
+        "location": "Wagholi",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "265",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "9",
+        "name" : "Pakko Chinese",
+        "location": "Yerwada",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "54",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    },
+    {
+        "index" : "10",
+        "name" : "Hyderabdi Hotel",
+        "location": "Yerwada",
+        "picture":"assets/restaurant_img.jpg",
+        "likes" : "263",
+        "time" : "8am-7pm",
+        "contact":"8796719959",
+        "email": "sohailmk24@gmail.com",
+        "description":"Hershey's oldest freestanding restaurant. A local favorite for 83+ years. Featuring our famous DeAngelis spaghetti sauces and our famous Upside Down pizza. Homemade, delicious Italian dishes, featuring seafood, steaks, and pasta. Full pub menu and sandwich selection. Full menu offered all day and late night. Full bar with entertainment on weekends. Home to the stars, cast parties and celebrities from the Hershey Theatre. "
+    }
+]
